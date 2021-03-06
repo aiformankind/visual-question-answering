@@ -7,8 +7,8 @@
 - [OK-VQA](https://okvqa.allenai.org/download.html) is a dataset for visual question answering that requires methods which can draw upon outside knowledge to answer questions.
 
 # Tutorials
-[Deep Learning and Visual Question Answering](https://towardsdatascience.com/deep-learning-and-visual-question-answering-c8c8093941bc)
-[Vanilla VQA: An introduction to Visual Question Answering](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336)
+- [Deep Learning and Visual Question Answering](https://towardsdatascience.com/deep-learning-and-visual-question-answering-c8c8093941bc)
+- [Vanilla VQA: An introduction to Visual Question Answering](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336)
 
 
 # Learning Materials from YouTube
