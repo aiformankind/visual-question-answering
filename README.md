@@ -13,6 +13,7 @@
 # VizWiz
 - https://vizwiz.org/tasks-and-datasets/image-captioning/
 - https://vizwiz.org/tasks-and-datasets/vqa/
+- https://vizwiz.org/workshops/2021-workshop/
 
 # Learning Materials from YouTube
 [Visual Question Answering (VQA) by Devi Parikh](https://www.youtube.com/watch?v=ElZADFTer4I)
