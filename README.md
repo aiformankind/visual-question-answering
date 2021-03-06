@@ -1,18 +1,14 @@
 # visual-question-answering
-http://vqa.cloudcv.org/
 
-# VQA Dataset
-https://visualqa.org/download.html
+
+# VQA Datasets
+- [VQA](https://visualqa.org/download.html) is a new dataset containing open-ended questions about images.
+- [VizWiz-VQA](https://vizwiz.org/tasks-and-datasets/vqa/) is visual question answering (VQA) dataset curated from people who are blind.
+- [OK-VQA](https://okvqa.allenai.org/download.html) is a dataset for visual question answering that requires methods which can draw upon outside knowledge to answer questions.
 
 # Tutorials
 [Deep Learning and Visual Question Answering](https://towardsdatascience.com/deep-learning-and-visual-question-answering-c8c8093941bc)
 
-# Datasets
-VQA from https://visualqa.org
-
-
-# Demo
-https://github.com/arya46/VQA-Flask-App#running-the-app-locally
 
 # Learning Materials from YouTube
 [Visual Question Answering (VQA) by Devi Parikh](https://www.youtube.com/watch?v=ElZADFTer4I)
@@ -21,9 +17,6 @@ https://github.com/arya46/VQA-Flask-App#running-the-app-locally
 
 [VQA-Dial Workshop 2019](https://youtube.com/playlist?list=PL-fZD610i7yAjD7jU5sQkrx5esgGQ55yi)
 
-https://www.youtube.com/watch?v=W2rWgXJBZhU
-
-https://www.youtube.com/watch?v=Q57rzaHHO0k
-
-https://www.youtube.com/watch?v=SysgYptB198
+# Demos
+[CloudCV VQA](http://vqa.cloudcv.org/) created by students and faculty from Machine Learning and Perception Lab at Virginia Tech.
 
