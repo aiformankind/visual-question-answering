@@ -8,6 +8,7 @@
 
 # Tutorials
 [Deep Learning and Visual Question Answering](https://towardsdatascience.com/deep-learning-and-visual-question-answering-c8c8093941bc)
+[Vanilla VQA: An introduction to Visual Question Answering](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336)
 
 
 # Learning Materials from YouTube
@@ -19,4 +20,7 @@
 
 # Demos
 [CloudCV VQA](http://vqa.cloudcv.org/) created by students and faculty from Machine Learning and Perception Lab at Virginia Tech.
+
+# Papers
+[VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468)
 
