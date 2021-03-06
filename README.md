@@ -10,6 +10,9 @@
 - [Deep Learning and Visual Question Answering](https://towardsdatascience.com/deep-learning-and-visual-question-answering-c8c8093941bc)
 - [Vanilla VQA: An introduction to Visual Question Answering](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336)
 
+# VizWiz
+- https://vizwiz.org/tasks-and-datasets/image-captioning/
+- https://vizwiz.org/tasks-and-datasets/vqa/
 
 # Learning Materials from YouTube
 [Visual Question Answering (VQA) by Devi Parikh](https://www.youtube.com/watch?v=ElZADFTer4I)
