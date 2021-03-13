@@ -27,6 +27,6 @@
 [CloudCV VQA](http://vqa.cloudcv.org/) created by students and faculty from Machine Learning and Perception Lab at Virginia Tech.
 
 # Papers
-[VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468)
-[Visual Question Answering: Datasets, Algorithms, and Future Challenges](https://www.researchgate.net/publication/308896144_Visual_Question_Answering_Datasets_Algorithms_and_Future_Challenges)
+- [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468)
+- [Visual Question Answering: Datasets, Algorithms, and Future Challenges](https://www.researchgate.net/publication/308896144_Visual_Question_Answering_Datasets_Algorithms_and_Future_Challenges)
 
