@@ -6,6 +6,7 @@
 - [VizWiz-VQA](https://vizwiz.org/tasks-and-datasets/vqa/) is visual question answering (VQA) dataset curated from people who are blind.
 - [OK-VQA](https://okvqa.allenai.org/download.html) is a dataset for visual question answering that requires methods which can draw upon outside knowledge to answer questions.
 
+
 # Tutorials
 - [Deep Learning and Visual Question Answering](https://towardsdatascience.com/deep-learning-and-visual-question-answering-c8c8093941bc)
 - [Vanilla VQA: An introduction to Visual Question Answering](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336)
@@ -27,4 +28,5 @@
 
 # Papers
 [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468)
+[Visual Question Answering: Datasets, Algorithms, and Future Challenges](https://www.researchgate.net/publication/308896144_Visual_Question_Answering_Datasets_Algorithms_and_Future_Challenges)
 
